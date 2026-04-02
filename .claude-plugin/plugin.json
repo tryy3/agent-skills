@@ -1,0 +1,10 @@
+{
+    "name": "personal-skills",
+    "description": "Claude Skills for Personal Usage",
+    "version": "1.0.0",
+    "author": {
+        "name": "tryy3"
+    },
+    "repository": "https://github.com/tryy3/agent-skills",
+    "keywords": ["personal", "skills", "claude"]
+}

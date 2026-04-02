@@ -1,0 +1,14 @@
+{
+    "name": "personal-skills",
+    "owner": {
+        "name": "tryy3"
+    },
+    "plugins": [
+        {
+            "name": "personal-skills",
+            "source": "./",
+            "description": "Claude Skills for Personal Usage",
+            "version": "1.0.0"
+        }
+    ]
+}
