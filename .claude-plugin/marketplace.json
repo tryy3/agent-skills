@@ -1,7 +1,8 @@
 {
     "name": "personal-skills",
     "owner": {
-        "name": "tryy3"
+        "name": "tryy3",
+        "url": "https://github.com/tryy3/agent-skills"
     },
     "plugins": [
         {
