@@ -4,7 +4,7 @@ description: >
   Create a new Obsidian task note in the Personal vault under Projekt/Homelab/tasks/ when the user describes something they want to do, research, build, or install. Use this skill whenever the user says things like "create a task", "add a task", "I want to set up X", "remind me to research Y", "make a note to install Z", "log this as a task", "add this to my homelab tasks", or just describes a piece of work they want to track. Triggers on any new task, to-do, project idea, or research item the user wants to capture in their Obsidian vault. Don't wait for the user to say "Obsidian" explicitly — if they describe work to be tracked, use this skill.
 ---
  
-# Homelab Task Creator
+# Obsidian Task Creator
  
 Creates a structured task note in the user's Obsidian **Personal** vault at `Projekt/Homelab/tasks/`.
  
